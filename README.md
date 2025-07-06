@@ -1,3 +1,3 @@
 # NewRepo
-My New Repository
+My New Repo
 
